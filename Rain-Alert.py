@@ -1,4 +1,5 @@
 # this code is to send NYC rain alert messages on WhatsApp
+# number must be in twilio whatsapp server to receive messages
 
 import requests
 from twilio.rest import Client
